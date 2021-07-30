@@ -1,0 +1,12 @@
+#p1{
+    background: linear-gradient(red,yellow,blue);
+    text-align: center;
+}
+#p2{
+    background: linear-gradient(green,orange,grey);
+    text-align: center;
+}
+#p3{
+    background: linear-gradient(blue,orange,red);
+    text-align: center;
+}
